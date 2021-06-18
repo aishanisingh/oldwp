@@ -6,7 +6,7 @@
 
 body { 
   margin: 0;
-  font-family: 'Lato';
+  font-family: Lato;
   line-height:1.5;
 }
 
@@ -59,13 +59,13 @@ h1 {
   color: #1d3557;
   margin-left: 5px;
   text-align: left;
-  font-family: 'Quattrocento Sans';
+  font-family: Quattrocento Sans;
 }
 
 h2 {
   color: #3131d6;
   margin-left: 5px;
-  font-family: 'Quattrocento Sans'
+  font-family: Quattrocento Sans
 }
 
 h3 {
@@ -74,5 +74,5 @@ h3 {
 
 p {
   margin-left: 5px;
-  font-family: 'Calibri';
+  font-family: Calibri;
 }
