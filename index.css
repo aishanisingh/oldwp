@@ -65,7 +65,7 @@ h1 {
 h2 {
   color: #3131d6;
   margin-left: 5px;
-  font-family: Quattrocento Sans
+  font-family: Quattrocento Sans;
 }
 
 h3 {
@@ -74,5 +74,5 @@ h3 {
 
 p {
   margin-left: 5px;
-  font-family: 'Lato';
+  font-family: Quattrocento Sans;
 }
