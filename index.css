@@ -1,11 +1,12 @@
 @import url(//fonts.googleapis.com/css?family=Lato);
 @import url(//fonts.googleapis.com/css?family=Quattrocento%20Sans);
+@import url(//fonts.googleapis.com/css?family=Calibri);
 
 * {box-sizing: border-box;}
 
 body { 
   margin: 0;
-  font-family: Lato;
+  font-family: 'Lato';
   line-height:1.5;
 }
 
@@ -73,5 +74,5 @@ h3 {
 
 p {
   margin-left: 5px;
-  font-family: 'Lato';
+  font-family: 'Calibri';
 }
