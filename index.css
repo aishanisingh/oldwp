@@ -2,7 +2,7 @@
 @import url(//fonts.googleapis.com/css?family=Quattrocento%20Sans);
 @import url(//fonts.googleapis.com/css?family=Calibri);
 
-* { 
+body { 
   margin: 0;
   font-family: Lato;
   line-height:1.5;
