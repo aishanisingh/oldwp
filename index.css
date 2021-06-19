@@ -13,7 +13,6 @@
   overflow: hidden;
   background-color: #c3d3f5;
   padding: 20px 10px;
-  font-family: Lato;
 }
 
 .header a {
@@ -28,7 +27,7 @@
 }
 
 .header a.logo {
-  font-size: 35px;
+  font-size: 25px;
 }
 
 .header a:hover {
