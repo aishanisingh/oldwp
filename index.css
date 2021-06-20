@@ -1,6 +1,6 @@
 @import url(//fonts.googleapis.com/css?family=Lato);
 @import url(//fonts.googleapis.com/css?family=Quattrocento%20Sans);
-@import url(//fonts.googleapis.com/css?family=Pacifico);
+@import url(//fonts.googleapis.com/css?family=Sacramento);
 
 
 body { 
@@ -30,7 +30,7 @@ body {
 
 .header a.logo {
   font-size: 25px;
-  font-family: Pacifico;
+  font-family: Sacramento;
 }
 
 .header a:hover {
