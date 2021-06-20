@@ -29,8 +29,9 @@ body {
 }
 
 .header a.logo {
-  font-size: 25px;
+  font-size: 35px;
   font-family: Sacramento;
+  font-weight: bold;
 }
 
 .header a:hover {
